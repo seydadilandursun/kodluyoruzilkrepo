@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo  
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![kodluyoruzresim]("C:\Users\dursu\kodluyoruzilkrepo\kodluyoruzresim.png")
+![](github.png)
 
 ## Installation
 ---   
@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
+---
+[PatikaDev](https://app.patika.dev/)
